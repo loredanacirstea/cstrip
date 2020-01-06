@@ -1,0 +1,2 @@
+# cstrip
+Comic strip creator
